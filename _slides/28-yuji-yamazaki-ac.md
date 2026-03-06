@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-山崎です。
+「。」を「!」にしましょう
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
